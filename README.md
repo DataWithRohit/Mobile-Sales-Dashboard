@@ -47,7 +47,7 @@ The dataset contains mobile sales records, including:
 ### **MTD REPORT**
 ![MTD REPORT](Dashboard_Preview_2.png)
 
-### **City & Model-wise Sales Report**
+### **SAME PERIOD LAST YEAR**
 ![Same_period-lastyear](Dashboard_Preview_png)
 
 ## 🔎 Insights & Findings
