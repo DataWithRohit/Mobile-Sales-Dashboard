@@ -18,7 +18,7 @@ This Power BI project provides a comprehensive analysis of mobile sales data, in
 - Interactive buttons to filter by different months.
 - Comparison with the previous year's same period.
 
-### **3. SAME PERIOD-LAST YEAR**
+### **3. Map - Visualization**
 - Geographic analysis of sales across different cities in India using a **map visualization**.
 - Sales contribution of different regions.
 
