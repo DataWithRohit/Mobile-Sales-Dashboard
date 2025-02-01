@@ -48,7 +48,7 @@ The dataset contains mobile sales records, including:
 ![MTD REPORT](Dashboard_Preview_2.png)
 
 ### **SAME PERIOD LAST YEAR**
-![Same_period-lastyear](Dashboard_Preview_png)
+![Same_period-lastyear](Dashboard_Preview_3.png)
 
 ## 🔎 Insights & Findings
 - **Quarterly Sales Trends:** Sales are fairly stable across quarters but show minor fluctuations.
